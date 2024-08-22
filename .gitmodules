@@ -1,6 +1,0 @@
-[submodule "main/dir1/dir2/project/exercise"]
-	path = main/dir1/dir2/project/exercise
-	url = https://github.com/BusangM/submodule_prac.git
-[submodule "main/dir1/dir2/project/solution"]
-	path = main/dir1/dir2/project/solution
-	url = https://github.com/BusangM/submodule_prac.git

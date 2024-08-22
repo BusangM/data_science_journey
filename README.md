@@ -1,1 +1,1 @@
-# submodule_prac
+# Spatial Edge Elective
