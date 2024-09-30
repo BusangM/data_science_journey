@@ -1,3 +1,6 @@
 pandas
 google
 google-cloud-storage
+boto3
+pyarrow
+fastparquet
